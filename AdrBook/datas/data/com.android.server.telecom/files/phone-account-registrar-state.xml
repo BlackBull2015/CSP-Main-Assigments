@@ -1,0 +1,32 @@
+<phone_account_registrar_state version="5">
+<accounts>
+<phone_account>
+<account_handle>
+<phone_account_handle>
+<component_name>com.android.phone/com.android.services.telephony.TelephonyConnectionService</component_name>
+<id>1</id>
+<user_serial_number>0</user_serial_number>
+</phone_account_handle>
+</account_handle>
+<handle>tel:15555215554</handle>
+<subscription_number>tel:15555215554</subscription_number>
+<capabilities>54</capabilities>
+<icon_res_id>-1</icon_res_id>
+<icon_bitmap>iVBORw0KGgoAAAANSUhEUgAAABkAAAAgCAYAAADnnNMGAAAABHNCSVQICAgIfAhkiAAAAPxJREFU
+SInt1zFKQ0EUBdDzR7EQwc5OEIOK2IggIq7MziVYugPFSrIJVyIYrOwUMdciP4IxhoT8DxJyYYpp
+5rzHg2GGCUlSklwkeU3Sr9c06SfpJblKsrkyAahwjDtsoarXNKmwjnP0J3VwluRpxg5G85mk96uy
+JAUH6GJ3xg7G1lzGAEc10GkAgOr7gHoGHTzgsCFgoNRAqYEu9psEoNTANm6x1zQABTu4x0m9bxSA
+KskjTtsChsgb1toCGFSfNoEh0noWC1ltG6mSpG1ksWayRJbIEvknSNt3Vwp6/nqvzp8+Xgqu8a75
+joIP3EiykeQyyfMcD+vR/Pg6fAF14yXQpi1I9AAAAABJRU5ErkJggg==
+</icon_bitmap>
+<icon_tint>0</icon_tint>
+<highlight_color>0</highlight_color>
+<label>Android</label>
+<short_description>Android</short_description>
+<supported_uri_schemes length="2">
+<value>tel</value>
+<value>voicemail</value>
+</supported_uri_schemes>
+</phone_account>
+</accounts>
+</phone_account_registrar_state>

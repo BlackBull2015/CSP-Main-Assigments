@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Laptop Database" uuid="a814a7bb-eb09-46ab-b936-54f04288ee01">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>addressbook.* books.*</schema-pattern>
+      <default-schemas>addressbook.* books.*</default-schemas>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="cling_gel.workspace.dismissed" value="true" />
+    <boolean name="launcher.first_load_complete" value="true" />
+    <boolean name="UPGRADED_FROM_OLD_DATABASE" value="false" />
+    <int name="qsb_widget_id" value="-1" />
+    <string name="qsb_widget_provider">com.android.quicksearchbox/com.android.quicksearchbox.SearchWidgetProvider</string>
+</map>
